@@ -3,7 +3,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#fff'
+        primary: '#fff',
+        raidusmax: '20px' 
       }
     },
   },
